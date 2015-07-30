@@ -1,0 +1,23 @@
+{
+  "name": "jsvkapi",
+  "main": "jsvkapi.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/timCF/jsvkapi",
+  "description": "just vk js sdk",
+  "keywords": [
+    "vk",
+    "js",
+    "sdk"
+  ],
+  "authors": [
+    "vk"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
